@@ -1,0 +1,27 @@
+_repo: Conundrums-Riddles-and-Puzzles-Containing-one-thousand-of-the-latest-and-best-conundrums-gath__52598
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rivers, Dean
+    gutenberg_agent_id: '46950'
+    url: http://www.gutenberg.org/2009/agents/46950
+description: ''
+gutenberg_issued: '2016-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Puzzles'
+- !lcsh 'Riddles'
+- GITenberg
+tableOfContents: General conundrums -- Biblical conundrums -- Poetical conundrums
+  -- French conundrums -- Arithmetical puzzles.
+title: "Conundrums, Riddles and Puzzles\r\nContaining one thousand of the latest and\
+  \ best conundrums, gathered from every conceivable source, and comprising many that\
+  \ are entirely new and original"
+url: http://www.gutenberg.org/ebooks/52598
